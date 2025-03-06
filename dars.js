@@ -3,7 +3,7 @@
 //     console.log(a + b)
 // }
 // add(3,5)
-
+// ejngj
 //2-ayirish
 // function subtraction(a , b){
 //     console.log(a - b)
